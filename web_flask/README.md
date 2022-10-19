@@ -41,3 +41,5 @@ Screenshots:
   <img src="https://github.com/anteneh2121/AirBnB_clone_v2/blob/main/web_flask/static/images/hbnb_screenshot_2.png"
        alt="HolbertonBnB logo">
 </p>
+
+
